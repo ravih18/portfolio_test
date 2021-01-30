@@ -1,0 +1,14 @@
+# Site settings
+title:              Portfolio Thyz
+email:              ravoche@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl:            "/portfolio"
+url:                "https://ravih18.github.io"
+author:             Ravi Hassanaly
+            
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
