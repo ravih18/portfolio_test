@@ -1,6 +1,6 @@
 # Site settings
-title:              Portfolio Thyz
-email:              ravoche@gmail.com
+title:              Portfolio exemple
+email:              nocty@email.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl:            "/portfolio"
 url:                "https://ravih18.github.io"
